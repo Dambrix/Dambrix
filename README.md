@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi devs!👋
+
+👨‍💼 I'm a 23 years old guy living in Bologna, Italy.  
+
+🎓 I recently graduated from the Alma Mater Studiorum - University of Bologna.  
+💻 I’m currently learning frontend and backend development.
 
 <!--
 **Dambrix/Dambrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
